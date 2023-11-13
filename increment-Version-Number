@@ -10,7 +10,7 @@ echo.
 
 echo Renaming Files
 
-Rem adds (num++) to the end of the file name
+Rem adds (1) to the end of the file name
 for %%a in (*.*) do ren "%%~a" "%%~na (1)%%~xa"
 
 pause
