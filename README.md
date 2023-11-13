@@ -5,6 +5,6 @@ I needed an easy to manage LOTS of duplicate files and documents so I wrote a VE
 Just add to the directory where you have a lot of files that you want to rename before merging into another directory. Double-click and (1) will be added to the end of the filename.
 
 # Caveats
-Currently (1) will be added to the end of the filename. So you can get filenames like:
+Currently (1) will be added to the end of the document or file. So you can get filenames like:
 Version 1 (1) (1)
 Future updates will include incrementing the number at the end of the filename. :D
